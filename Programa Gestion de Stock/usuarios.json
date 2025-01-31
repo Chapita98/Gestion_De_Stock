@@ -1,7 +1,7 @@
 [
     {
         "usuario": "super",
-        "contrasena": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "contrasena": "d82494f05d6917ba02f7aaa29689ccb444bb73f20380876cb05d1f37537b7892",
         "clave_recuperacion": "clave_super",
         "rol": "super"
     },
@@ -13,7 +13,7 @@
     },
     {
         "usuario": "usuario",
-        "contrasena": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+        "contrasena": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
         "clave_recuperacion": "clave_usuario",
         "rol": "normal"
     }
